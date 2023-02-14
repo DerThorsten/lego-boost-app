@@ -1,7 +1,7 @@
 {
   "name": "lego-boost-app",
   "version": "0.10.0",
-  "homepage": "https://legoboost.azurewebsites.net/",
+  "homepage": "https://derthorsten.github.io/lego-boost-app/",
   "scripts": {
     "start": "rescripts start",
     "build": "rescripts build",
